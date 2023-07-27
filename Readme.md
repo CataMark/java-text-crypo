@@ -1,0 +1,1 @@
+# Console app for symmetric encryption/ decryption based on a provided key
